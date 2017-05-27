@@ -15,6 +15,7 @@ In this paper, we point out two forms of abstraction - leaky and sticky - that i
 
 The Data Usage Vocabulary is an example of leaky abstraction - it exposes (leaks) details and limitations of the underlying implementation that should ideally be hidden away. The Data Quality Vocabulary (DQV) is an example of a sticky abstraction - because quality is a relative concept it is difficult to express information about one context versus another (that is, the contextual knowledge sticks to a domain rather than transfers cleanly)
 
+this is a change
 
 ## Introduction
 
